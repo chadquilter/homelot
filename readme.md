@@ -4,7 +4,9 @@ This is a simple web app written with smarty to simulate the sensor readouts for
 
 ## To Use:
   Install vendor files using composer via the inclued composer.json file:
+  <br>
   I.E. composer install
+  <br>
   Update the app directory folder location wherever the application will reside in:
   <br>
   define('SENSORACTIVITY_DIR', 'path/to/homelot/');
